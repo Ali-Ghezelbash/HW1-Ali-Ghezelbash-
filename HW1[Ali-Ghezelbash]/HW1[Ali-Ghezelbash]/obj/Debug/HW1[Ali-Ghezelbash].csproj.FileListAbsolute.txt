@@ -1,0 +1,6 @@
+c:\users\ghezelbash\documents\visual studio 2012\Projects\HW1[Ali-Ghezelbash]\HW1[Ali-Ghezelbash]\bin\Debug\HW1[Ali-Ghezelbash].exe.config
+C:\Users\ghezelbash\Documents\Visual Studio 2012\Projects\HW1[Ali-Ghezelbash]\HW1[Ali-Ghezelbash]\bin\Debug\HW1[Ali-Ghezelbash].exe
+C:\Users\ghezelbash\Documents\Visual Studio 2012\Projects\HW1[Ali-Ghezelbash]\HW1[Ali-Ghezelbash]\bin\Debug\HW1[Ali-Ghezelbash].pdb
+C:\Users\ghezelbash\Documents\Visual Studio 2012\Projects\HW1[Ali-Ghezelbash]\HW1[Ali-Ghezelbash]\obj\Debug\HW1[Ali-Ghezelbash].csprojResolveAssemblyReference.cache
+C:\Users\ghezelbash\Documents\Visual Studio 2012\Projects\HW1[Ali-Ghezelbash]\HW1[Ali-Ghezelbash]\obj\Debug\HW1[Ali-Ghezelbash].exe
+C:\Users\ghezelbash\Documents\Visual Studio 2012\Projects\HW1[Ali-Ghezelbash]\HW1[Ali-Ghezelbash]\obj\Debug\HW1[Ali-Ghezelbash].pdb
